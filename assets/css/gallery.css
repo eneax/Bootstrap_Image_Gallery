@@ -1,13 +1,9 @@
 body { padding-top: 70px; }     /* fixes the issue with the fixed nav */
 
 .navbar-inverse { background: #113321; }
-
 .navbar-inverse .navbar-brand { color: #ecf0f1; }
-
 .navbar-inverse .navbar-nav>li>a { color: #ecf0f1; }
-
 .navbar-inverse .navbar-toggle { border-color: #ecf0f1; }
-
 .navbar-inverse .navbar-toggle:focus,
 .navbar-inverse .navbar-toggle:hover {
   background-color: #04291a;
